@@ -1,0 +1,9 @@
+Pubtator_GiveSentence_Interaction_Data_Collection.ipynb : https://colab.research.google.com/drive/1JmUQle-_Dl4PeQNp5ZPznKBB7fcI8nwM?usp=sharing
+
+Graph Visualisation for Interaction between DGC for Different Medicinal Types.ipynb :  https://colab.research.google.com/drive/17y25dhIS6n8XIy9n44rYZsQAaaVRkFmv#scrollTo=AV-vBvsBVPC0
+
+Data Folder : 
+https://drive.google.com/drive/folders/1ICYad_qbMtKvcBY-bp-4pdKeQydR6bgx
+
+
+
